@@ -1,0 +1,8 @@
+﻿  Main.cpp
+f:\vs_source\maxflow\maxflow\main.cpp(70): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  5 of 473 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  MaxFlow.vcxproj -> F:\VS_Source\MaxFlow\x64\Release\MaxFlow.exe
